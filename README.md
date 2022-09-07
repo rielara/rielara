@@ -1,6 +1,6 @@
 ## Hi there! <img src="https://user-images.githubusercontent.com/78863735/188920162-4e16ded0-069b-4828-877d-9709f3716d75.gif" width="28">
-![Untitled (1500 × 500px) (5)](https://user-images.githubusercontent.com/78863735/188929899-95122f18-c9ac-4344-a2f4-f2f7c688a6e3.png#gh-dark-mode-only)
 ![Untitled (1500 × 500px) (6)](https://user-images.githubusercontent.com/78863735/188930346-7113b830-577e-443e-9a03-b628b7a46573.png#gh-light-mode-only)
+![Untitled (1500 × 500px) (7)](https://user-images.githubusercontent.com/78863735/188930689-1e8e6ada-0efb-43cf-9277-5253acdaebe5.png#gh-dark-mode-only)
 
 ## <img src="https://user-images.githubusercontent.com/78863735/188921041-e7397237-a29e-416f-8f89-56c7a7450545.gif" width="28"> Tools & technologies <img src="https://user-images.githubusercontent.com/78863735/188921041-e7397237-a29e-416f-8f89-56c7a7450545.gif" width="28">
 
