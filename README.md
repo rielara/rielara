@@ -21,6 +21,8 @@
 <div align="middle">
 
 [👽 Alien Invaders 🛸](https://github.com/rielara/alien_invasion)
+  
+[✨ Anime Finder ✨](https://github.com/rielara/anime_finder)
 
 [📖 Learning Log 💡](https://github.com/rielara/learning_log)
 
