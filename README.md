@@ -23,6 +23,8 @@
 [👽 Alien Invaders 🛸](https://github.com/rielara/alien_invasion)
   
 [✨ Anime Finder ✨](https://github.com/rielara/anime_finder)
+  
+[👁️ Decision Maker 👁️](https://github.com/rielara/Decision_Maker)
 
 [📖 Learning Log 💡](https://github.com/rielara/learning_log)
 
