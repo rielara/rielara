@@ -16,6 +16,8 @@
 ## <div style="display: inline_block" align="center"><img src="https://user-images.githubusercontent.com/78863735/188921041-e7397237-a29e-416f-8f89-56c7a7450545.gif" width="28"> Featured Projects <img src="https://user-images.githubusercontent.com/78863735/188921041-e7397237-a29e-416f-8f89-56c7a7450545.gif" width="28"></div>
 
 <div align="middle">
+  
+[⚙️ DeVault ⚙️](https://github.com/rielara/bc13_final-project_front-end-cyber-insecure)
 
 [👽 Alien Invaders 🛸](https://github.com/rielara/alien_invasion)
   
