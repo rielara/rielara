@@ -21,6 +21,8 @@
 
 [👽 Alien Invaders 🛸](https://github.com/rielara/alien_invasion)
   
+[📰  News App 🗞️](https://github.com/rielara/pe3-soc-cohort13-rielara)
+  
 [✨ Anime Finder ✨](https://github.com/rielara/anime_finder)
   
 [👁️ Decision Maker 👁️](https://github.com/rielara/Decision_Maker)
