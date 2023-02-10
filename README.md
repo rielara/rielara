@@ -105,7 +105,7 @@
 <br/><br/>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=rielara&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=rielara&&style=for-the-badge&color=blueviolet" align="center" />
 </div>
 
 
