@@ -1,13 +1,11 @@
 ## <div style="display: inline_block" align="center"><img src="https://user-images.githubusercontent.com/78863735/188921041-e7397237-a29e-416f-8f89-56c7a7450545.gif" width="28"> Socials <img src="https://user-images.githubusercontent.com/78863735/188921041-e7397237-a29e-416f-8f89-56c7a7450545.gif" width="28"></div>
 
 <div align="center">
-<a href="https://twitter.com/rielara" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
 <a href="https://linkedin.com/in/rielara/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://rielara.website/index.html"><img alt="personal-website" title="rielara.website" src="https://img.shields.io/badge/-Personal website-663399?style=for-the-badge&logo=ghostery&logoColor=white"/></a>
+<a href="https://steamcommunity.com/id/kimchibaybay"><img alt="steam" title="steam" src="https://img.shields.io/badge/-Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/></a>
 
   
   ![image](https://www.codewars.com/users/rielara/badges/small)
