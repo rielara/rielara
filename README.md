@@ -5,8 +5,13 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" target=”_blank”/>
 </a>
 <a href="https://rielara.website/" target=”_blank”><img alt="personal-website" title="rielara.website" src="https://img.shields.io/badge/-Personal website-663399?style=for-the-badge&logo=ghostery&logoColor=white" target=”_blank”/></a>
+  <br />
 <a href="https://steamcommunity.com/id/kimchibaybay" target=”_blank”><img alt="steam" title="steam" src="https://img.shields.io/badge/-Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target=”_blank”/></a>
+<a href="https://overwatch.blizzard.com/en-gb/career/Kimchi-21410/" target=”_blank”><img alt="battlenet" title="" src="https://img.shields.io/badge/-Battle.net-148EFF?style=for-the-badge&logo=battle.net&logoColor=white" target=”_blank”/></a>
+<a href="https://launcher.store.epicgames.com/u/28b542002163441c9363ac791e122d38" target=”_blank”><img alt="epic" title="" src="https://img.shields.io/badge/-Epic Games-313131?style=for-the-badge&logo=epicgames&logoColor=white" target=”_blank”/></a>
 
+  
+  
   
   ![image](https://www.codewars.com/users/rielara/badges/small)
 </div>  
