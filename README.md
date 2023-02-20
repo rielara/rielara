@@ -22,6 +22,8 @@
 <div align="middle">
   
 [⚙️ DeVault ⚙️](https://github.com/rielara/bc13_final-project_front-end-cyber-insecure)
+  
+[🤖 CW Jobs Scraper 🤖](https://github.com/rielara/cw_scraper)
 
 [👽 Alien Invaders 🛸](https://github.com/rielara/alien_invasion)
   
