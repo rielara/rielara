@@ -25,6 +25,8 @@
   
 [🤖 CW Jobs Scraper 🤖](https://github.com/rielara/cw_scraper)
 
+[🦆 Rubber Ducky Payloads 🔌](https://github.com/rielara/rubber_ducky_payloads)
+
 [👽 Alien Invaders 🛸](https://github.com/rielara/alien_invasion)
   
 [✨ Anime Finder ✨](https://github.com/rielara/anime-finder)
