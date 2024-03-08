@@ -1,6 +1,3 @@
-
-![portfolio_github](https://github.com/rielara/rielara/assets/78863735/ff63896b-6b36-4d98-b3df-5ed0ba35ef1d)
-
 ## <div style="display: inline_block" align="center"><img src="https://user-images.githubusercontent.com/78863735/188921041-e7397237-a29e-416f-8f89-56c7a7450545.gif" width="28"> Socials <img src="https://user-images.githubusercontent.com/78863735/188921041-e7397237-a29e-416f-8f89-56c7a7450545.gif" width="28"></div>
 
 <div align="center">
