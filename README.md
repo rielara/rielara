@@ -27,6 +27,8 @@
 
 [🦆 Rubber Ducky Payloads 🔌](https://github.com/rielara/rubber_ducky_payloads)
 
+[🐇 OSINT Tools 🐇](https://github.com/rielara/OSINT_tools)
+
 [👽 Alien Invaders 🛸](https://github.com/rielara/alien_invasion)
   
 [✨ Anime Finder ✨](https://github.com/rielara/anime-finder)
