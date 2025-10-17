@@ -6,12 +6,6 @@
 </a>
 <a href="https://lighthearted-kitten-df7c82.netlify.app/" target=”_blank”><img alt="personal-website" title="rielara.website" src="https://img.shields.io/badge/-Personal website-663399?style=for-the-badge&logo=ghostery&logoColor=white" target=”_blank”/></a>
   <br />
-
-
-  
-  
-  
-  ![image](https://www.codewars.com/users/rielara/badges/small)
 </div>  
 
 
